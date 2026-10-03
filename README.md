@@ -178,6 +178,7 @@ Nếu các bạn là giảng viên hoặc reviewer:
 
 ## Tài liệu nên đọc tiếp
 
+- `ANALYSIS.md`: báo cáo phân tích kết quả benchmark, kiểm chứng số liệu và phần bonus
 - `Guide.md`: hướng dẫn từng bước để hoàn thành lab
 - `Rubric.md`: tiêu chí chấm điểm và bonus
 
